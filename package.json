@@ -1,8 +1,8 @@
 {
-    "homepage": "https://myusername.github.io/my-app",
+    "homepage": "https://hubertdepsv.github.io/secret-santa",
     "scripts": {
-    +   "predeploy": "npm run build",
-    +   "deploy": "gh-pages -d build",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
     }
